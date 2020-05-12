@@ -1,0 +1,25 @@
+/* Aula inicial :D *//* Aula inicial :D */body {
+  
+    Background-image:url(https://images.unsplash.com/photo-1538481199705-c710c4e965fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+    Background-size: auto 120vh;
+    font-family:Courier, monospace;
+  height:120vh
+  }
+  .menu{
+    Background-color:White;
+  text-align: center;  
+  }
+  a{
+    color:DodgerBlue;
+  }
+  .site-title{
+    text-align:   center;
+    color: #696969;
+  }
+  .site-subtitle{
+    text-align:  center;
+    color: #696969;
+  }
+  .menu li{
+    list-style: none;
+  }
